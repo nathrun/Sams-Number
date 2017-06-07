@@ -1,0 +1,6 @@
+C:\Users\Nathan\Desktop\HourRank 21\SamsNumber\SamsNumber\bin\Debug\SamsNumber.exe.config
+C:\Users\Nathan\Desktop\HourRank 21\SamsNumber\SamsNumber\obj\Debug\SamsNumber.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\HourRank 21\SamsNumber\SamsNumber\bin\Debug\SamsNumber.exe
+C:\Users\Nathan\Desktop\HourRank 21\SamsNumber\SamsNumber\bin\Debug\SamsNumber.pdb
+C:\Users\Nathan\Desktop\HourRank 21\SamsNumber\SamsNumber\obj\Debug\SamsNumber.exe
+C:\Users\Nathan\Desktop\HourRank 21\SamsNumber\SamsNumber\obj\Debug\SamsNumber.pdb
